@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: rgba(8, 138, 170, 0.4);
+  color: #e6f6fb;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #88d6ea 0%, #4dbdd8 50%, #1ba3c2 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glass {
+  background: rgba(13, 49, 68, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(136, 214, 234, 0.12);
+}
+
+.glass-light {
+  background: rgba(13, 49, 68, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(136, 214, 234, 0.08);
+}
+
+.caustic-overlay {
+  background-image:
+    radial-gradient(ellipse at 20% 0%, rgba(72, 189, 216, 0.15), transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(27, 163, 194, 0.1), transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(8, 138, 170, 0.08), transparent 60%);
+}
