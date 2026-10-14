@@ -84,7 +84,7 @@ export const translations: Record<Lang, Translation> = {
     },
     footer: {
       tagline: 'Autonomi för ROV · Computer vision som grund',
-      copyright: 'Flateas SubAquatics',
+      copyright: 'Flateas SubAqua',
     },
   },
   en: {
@@ -132,7 +132,7 @@ export const translations: Record<Lang, Translation> = {
     },
     footer: {
       tagline: 'Autonomy for ROVs · Computer vision as the foundation',
-      copyright: 'Flateas SubAquatics',
+      copyright: 'Flateas SubAqua',
     },
   },
 };

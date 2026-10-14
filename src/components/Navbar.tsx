@@ -15,7 +15,7 @@ export default function Navbar() {
               <Waves className="w-5 h-5 text-abyss-50" strokeWidth={2.2} />
             </div>
             <span className="font-display font-semibold text-lg text-abyss-50 tracking-tight">
-              Flateas SubAquatics
+              Flateas SubAqua
             </span>
           </a>
 

@@ -13,8 +13,8 @@ function App() {
     document.documentElement.lang = lang;
     document.title =
       lang === 'sv'
-        ? 'Flateas SubAquatics — Autonomi för ROV'
-        : 'Flateas SubAquatics — Autonomy for ROVs';
+        ? 'Flateas SubAqua — Autonomi för ROV'
+        : 'Flateas SubAqua — Autonomy for ROVs';
   }, [lang]);
 
   return (

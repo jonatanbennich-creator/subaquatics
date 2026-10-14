@@ -13,7 +13,7 @@ export default function Footer() {
               <Waves className="w-4 h-4 text-abyss-50" strokeWidth={2.2} />
             </div>
             <span className="font-display font-semibold text-abyss-100 tracking-tight">
-              Flateas SubAquatics
+              Flateas SubAqua
             </span>
           </div>
 
