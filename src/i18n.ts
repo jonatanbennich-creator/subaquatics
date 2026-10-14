@@ -47,10 +47,10 @@ export const translations: Record<Lang, Translation> = {
       cta: 'Kom i kontakt',
     },
     hero: {
-      badge: 'Computer Vision för undervattensautonomi',
+      badge: 'Computer Vision och autonomi under ytan',
       titleLine1: 'Autonomi.',
       titleLine2: 'Under ytan.',
-      body: 'Vi utvecklar autonomi för ROV — med computer vision som grund. För att lösa uppgiften har vi även utvecklat egna kameror.',
+      body: 'Utveckling av autonomi för undervattensapplikationer — Computer vision som grund och smarta hjälpsystem som mål. Systemutveckling med hårdvara och mjukvara.',
       explore: 'Utforska tekniken',
       contact: 'Kom i kontakt',
       bgAlt: 'Undervattenslandskap med solljus genom havet',
@@ -59,7 +59,7 @@ export const translations: Record<Lang, Translation> = {
       label: 'Vårt fokus',
       titleLine1: 'Autonomi i fokus.',
       titleLine2: 'Vision som grund.',
-      body: 'Autonomin bygger på computer vision. Kamerorna är utvecklade för just den uppgiften — att ge systemet syn under ytan.',
+      body: 'Autonomi byggd på computer vision. Kameror och system utvecklade för uppgiften att ge mervärde under ytan.',
       features: [
         {
           title: 'Autonomi för ROV',
@@ -77,8 +77,8 @@ export const translations: Record<Lang, Translation> = {
     },
     contact: {
       label: 'Kontakt',
-      title: 'Vad vill du utforska?',
-      body: 'Låt oss prata om nästa steg för ditt ROV-system.',
+      title: 'Är du intresserad av projektet?',
+      body: 'Vi älskar samarbeten och pratar gärna om våra system.',
       button: 'Skicka ett mail',
       bgAlt: 'Ljus genom havet',
     },
@@ -95,10 +95,10 @@ export const translations: Record<Lang, Translation> = {
       cta: 'Get in touch',
     },
     hero: {
-      badge: 'Computer Vision for underwater autonomy',
+      badge: 'Computer Vision and autonomy beneath the surface',
       titleLine1: 'Autonomy.',
       titleLine2: 'Beneath the surface.',
-      body: 'We develop autonomy for ROVs — with computer vision as the foundation. To solve the task, we have also developed our own cameras.',
+      body: 'Development of autonomy for underwater applications — computer vision as the foundation and smart assistive systems as the goal. System development with hardware and software.',
       explore: 'Explore the technology',
       contact: 'Get in touch',
       bgAlt: 'Underwater landscape with sunlight through the ocean',
@@ -107,7 +107,7 @@ export const translations: Record<Lang, Translation> = {
       label: 'Our focus',
       titleLine1: 'Autonomy in focus.',
       titleLine2: 'Vision as the foundation.',
-      body: 'The autonomy is built on computer vision. The cameras are developed for that very task — giving the system sight beneath the surface.',
+      body: 'Autonomy built on computer vision. Cameras and systems developed for the task of adding value beneath the surface.',
       features: [
         {
           title: 'Autonomy for ROVs',
@@ -125,8 +125,8 @@ export const translations: Record<Lang, Translation> = {
     },
     contact: {
       label: 'Contact',
-      title: 'What do you want to explore?',
-      body: "Let's talk about the next step for your ROV system.",
+      title: 'Are you interested in the project?',
+      body: 'We love collaborations and are happy to talk about our systems.',
       button: 'Send an email',
       bgAlt: 'Light through the ocean',
     },
