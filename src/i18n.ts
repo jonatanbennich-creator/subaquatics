@@ -70,8 +70,8 @@ export const translations: Record<Lang, Translation> = {
           description: 'Kamerateknik utvecklad för att ge autonomin sin visuella grund — bild och beslut i samma system.',
         },
         {
-          title: 'I testfas',
-          description: 'Systemet är i testfas och ännu inte tillgängligt på öppna marknaden.',
+          title: 'Mellan ROV och AUV',
+          description: 'Vår tekniken bygger en brygga mellan en fjärrstyrd ROV och en helt autonom AUV — ett steg mot självständighet under ytan.',
         },
       ],
     },
@@ -118,8 +118,8 @@ export const translations: Record<Lang, Translation> = {
           description: 'Camera technology developed to give the autonomy its visual foundation — image and decisions in the same system.',
         },
         {
-          title: 'In testing',
-          description: 'The system is in the testing phase and not yet available on the open market.',
+          title: 'Between ROV and AUV',
+          description: 'Our technology bridges the gap between a remotely operated ROV and a fully autonomous AUV — a step toward independence beneath the surface.',
         },
       ],
     },

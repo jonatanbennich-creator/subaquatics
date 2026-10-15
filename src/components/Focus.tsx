@@ -1,7 +1,7 @@
-import { Compass, Camera, FlaskConical } from 'lucide-react';
+import { Compass, Camera, Merge } from 'lucide-react';
 import { useLang } from '@/i18n';
 
-const icons = [Compass, Camera, FlaskConical];
+const icons = [Compass, Camera, Merge];
 
 export default function Focus() {
   const { t } = useLang();
